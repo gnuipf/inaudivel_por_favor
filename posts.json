@@ -1,0 +1,33 @@
+{
+  "posts":[
+    {
+      "id":"post1",
+      "title":"Os melhores álbuns de Metal de 2025 segundo a comunidade underground",
+      "image":"img/posts/post1.png",
+      "excerpt":"Uma seleção brutal dos lançamentos que estão moldando o underground este ano.",
+      "content":"O underground nunca esteve tão forte. Em 2025 vimos lançamentos brutais que elevaram o nível da cena extrema.</p><p>Este artigo reúne destaques escolhidos pela comunidade."
+    },
+    {
+      "id":"post2",
+      "title":"Por que o Black Metal brasileiro continua crescendo e surpreendendo o mundo",
+      "image":"img/posts/post2.png",
+      "excerpt":"Explorando a força a cena nacional e os nomes que estão surgindo.",
+      "content":"Leia aqui!"
+    },
+    {
+      "id":"post3",
+      "title":"Top 10 álbuns essenciais para quem quer começar no Thrash Metal",
+      "image":"img/posts/post3.png",
+      "excerpt":"Uma lista perfeita para entrar no mundo do riff rápido e agressivo.",
+      "content":"Se você quer começar no Thrash, estes discos são obrigatórios."
+    },
+	{
+  "id":"post4",
+  "title":"Sepultura — Beneath the Remains (1989)",
+  "image":"img/posts/post4.png",
+  "excerpt":"O disco que colocou o Brasil no mapa do thrash mundial.",
+  "content":"Leia aqui!\n\n🎸 Nome da Banda: Sepultura\n🎼 Gênero: Thrash Metal / Groove / Death Metal\n📅 Ativos desde: 1984\n\n💿 Álbum: Beneath the Remains\n🏷️ Selo: The All Blacks\n📤 Lançamento: 07/04/1989\n\n🧨 Review:\nNo fim dos anos 80, o Sepultura deixava de ser promessa underground brasileira para se tornar força global do thrash metal...\n\nA formação clássica trazia Max Cavalera, Andreas Kisser, Paulo Jr. e Igor Cavalera...\n\nO álbum é um ataque thrash quase ininterrupto...\n\nNo lançamento, o disco colocou o Brasil no mapa do metal extremo."
+	}
+
+  ]
+}
