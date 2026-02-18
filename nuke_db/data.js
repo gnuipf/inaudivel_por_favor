@@ -7985,9 +7985,10 @@ window.data = [
 { album: "Memorial", data: "25-10-2013", banda: "Russian Circles" },
 { album: "Guidance", data: "05-08-2016", banda: "Russian Circles" },
 { album: "Blood Year", data: "02-08-2019", banda: "Russian Circles" },
-{ album: "Gnosis", data: "18-08-2022", banda: "Russian Circles" }
+{ album: "Gnosis", data: "18-08-2022", banda: "Russian Circles" },
   
 ];
+
 
 
 
