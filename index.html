@@ -91,12 +91,6 @@ footer a:hover{ background:#ff0000;color:black;padding:3px 6px; }
 
 <section class="posts" id="postsContainer"></section>
 
-<footer>
-  <a href="https://www.instagram.com/inaudivel_por_favor/" target="_blank">
-    © Inaudível Por Favor
-  </a>
-</footer>
-
 <script>
 fetch("posts.json")
   .then(res => res.json())
@@ -120,7 +114,11 @@ fetch("posts.json")
   });
 </script>
 
+<div id="footer"></div>
+<script src="/inaudivel_por_favor/components/footer.js"></script>
+
 </body>
 </html>
+
 
 
