@@ -2,7 +2,7 @@
 // IPF DATABASE – DADOS
 // ===============================
 
-const data = [
+window.data = [
   
   { album: "Liberation", data: "2003-02-15", banda: "1349" },
   { album: "Beyond The Apocalypse", data: "2004-04-19", banda: "1349" },
@@ -7989,6 +7989,7 @@ const data = [
 
   
 ];
+
 
 
 
