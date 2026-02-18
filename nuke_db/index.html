@@ -188,7 +188,9 @@ function addTouchEffect(btn){
 
 /* Aplica efeito a botões fixos */
 [btnBuscar, btnAll].forEach(addTouchEffect);
-addTouchEffect(document.querySelector('footer a'));
+const footerLink = document.querySelector('footer a');
+if (footerLink) addTouchEffect(footerLink);
+
 
 /* ================================
    PAGINAÇÃO
@@ -343,6 +345,7 @@ window.addEventListener('load', ()=>{ counter.textContent = `REGISTROS: 0`; });
 
 </body>
 </html>
+
 
 
 
