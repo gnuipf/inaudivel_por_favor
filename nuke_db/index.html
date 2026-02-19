@@ -42,6 +42,24 @@ th { font-family:'Cinzel', serif; }
 
 .pagination { display:flex; justify-content:center; gap:6px; margin:10px 0; }
 .pagination.hidden { display:none; }
+
+.footer {
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+  background: black;
+  border-top: 1px solid #ff0000;
+  font-family: 'Cinzel', serif;
+  color: #d4af37;
+  margin-top: 40px;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+}
+  
 </style>
 </head>
 
@@ -81,9 +99,6 @@ th { font-family:'Cinzel', serif; }
 </div>
 
 <div id="paginationBottom" class="pagination hidden"></div>
-
-<div id="footer"></div>
-<script src="/inaudivel_por_favor/components/footer.js"></script>
 
 <script>
 
@@ -171,8 +186,14 @@ search.addEventListener('keyup', e=>{ if(e.key==='Enter') applyFilters(); });
   
 </script>
 
+<footer class="footer">
+  <p>© 2026 Inaudível Por Favor — Todos os direitos reservados.</p>
+</footer>
+
+  
 </body>
 </html>
+
 
 
 
