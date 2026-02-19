@@ -167,25 +167,14 @@ btnBuscar.onclick = applyFilters;
 btnAll.onclick = showAll;
 search.addEventListener('keyup', e=>{ if(e.key==='Enter') applyFilters(); });
   
-document.addEventListener("DOMContentLoaded", function () {
-  fetch("/inaudivel_por_favor/components/footer.html")
-    .then(res => res.text())
-    .then(data => {
-      const footerContainer = document.getElementById("footer");
-      if (footerContainer) {
-        footerContainer.innerHTML = data;
-      }
-    })
-    .catch(err => console.error("Erro ao carregar footer:", err));
-});
+</script>
 
 <div id="footer"></div>
 <script src="/inaudivel_por_favor/components/footer.js"></script>
-  
-</script>
 
 </body>
 </html>
+
 
 
 
